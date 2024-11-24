@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Doğaçlama Oyunlar Veritabanı</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Doğaçlama Oyunlar Veritabanı</description>
+    <generator>Hugo</generator>
+    <language>tr-TR</language>
+    <lastBuildDate>Sun, 24 Nov 2024 12:56:20 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hakkinda</title>
+      <link>http://localhost:1313/posts/hakkinda/</link>
+      <pubDate>Sun, 24 Nov 2024 12:56:20 -0500</pubDate>
+      <guid>http://localhost:1313/posts/hakkinda/</guid>
+      <description>&lt;h1 id=&#34;nedir&#34;&gt;&#xA;  nedir?&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#nedir&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Doğaçlama oyun veritabanı, doğaçlama atölyeleri ve oyunlarımızı paylaşmak için bir web sitesidir. Oyunlar çeşitli kaynaklardan derlenmiş olmakla birlikte, bazı oyunlar da doğaçlama oyun yazarları tarafından özgün olarak yazılmıştır. Özgün içeriklerin altında yazar bilgisi yer almaktadır.&lt;/p&gt;&#xA;&lt;h2 id=&#34;oyunlar-nasıl-eklenir&#34;&gt;&#xA;  Oyunlar Nasıl Eklenir?&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#oyunlar-nas%c4%b1l-eklenir&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Sizin de eklemek istediğiniz oyun varsa &lt;a href=&#34;mailto:dogaclama@emre.xyz&#34;&gt;dogaclama@emre.xyz&lt;/a&gt; adresine bir eposta atmanız yeterlidir.&lt;/p&gt;&#xA;&lt;h2 id=&#34;kim&#34;&gt;&#xA;  Kim?&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#kim&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Bu site @delirehberi tarafından Hugo altyapısı kullanılarak hazırlanmış ve Github üzerinden yayınlanmaktadır.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

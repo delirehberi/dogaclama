@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/docs/tek-cumle-hikaye/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/tek-kelime/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/tek-kelime-hikaye/</loc>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-11-24T12:56:20-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/hakkinda/</loc>
+    <lastmod>2024-11-24T12:56:20-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-11-24T12:56:20-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/</loc>
+    <lastmod>2024-11-24T12:46:35-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/zip-zap-zop/</loc>
+    <lastmod>2024-11-24T12:46:35-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+  </url>
+</urlset>

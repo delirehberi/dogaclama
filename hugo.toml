@@ -1,0 +1,11 @@
+baseURL = 'https://dogaclama.emre.xyz/'
+languageCode = 'tr-TR'
+title = 'Doğaçlama Oyunlar Veritabanı'
+theme = 'hugo-book'
+BookSection = 'docs'
+[menu]
+# [[menu.before]]
+[[menu.after]]
+  name = "Hakkında"
+  url = "/posts/hakkinda/"
+  weight = 10
