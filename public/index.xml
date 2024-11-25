@@ -6,7 +6,7 @@
     <description>Recent content on Doğaçlama Oyunlar Veritabanı</description>
     <generator>Hugo</generator>
     <language>tr-TR</language>
-    <lastBuildDate>Sun, 24 Nov 2024 12:56:20 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2024 07:55:39 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ritmit Yanki</title>
@@ -35,6 +35,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/docs/tek-kelime-hikaye/</guid>
       <description>&lt;h3 id=&#34;yönergeler&#34;&gt;&#xA;  Yönergeler&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#y%c3%b6nergeler&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Tek Kelime oyununda olduğu gibi ilk oyuncu bir kelime ile oyunu başlatır. Sonraki oyuncular, bir öncekinin kelimesine ve genel kapsama bağlı kalarak, bir hikaye oluşturmak amacıyla bir kelime eklerler. Oyun, oyunculardan biri kelime ekleyemediğinde veya hikaye tamamlandığında sona erer. Oyunun amacı, hikayeyi mümkün olduğunca uzatmaktır.&lt;/p&gt;&#xA;&lt;h3 id=&#34;amaç&#34;&gt;&#xA;  Amaç&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#ama%c3%a7&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Oyuncuların kelime bilgisi ve hikaye oluşturma yeteneklerini geliştirmek.&#xA;Oyuncuların takip yeteneğini arttırmak.&#xA;Yaratıcılığı arttırmak.&lt;/p&gt;&#xA;&lt;h3 id=&#34;ipuçları&#34;&gt;&#xA;  İpuçları&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#ipu%c3%a7lar%c4%b1&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Oyuncuların hikayeyi oluştururken, hikayenin akışını ve mantığını korumaları önemlidir.&#xA;Her kelimeyi dikkatle dinlemek ve hikayeye uygun bir kelime eklemek önemlidir.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Homepage</title>
+      <link>http://localhost:1313/posts/homepage/</link>
+      <pubDate>Mon, 25 Nov 2024 07:55:39 -0500</pubDate>
+      <guid>http://localhost:1313/posts/homepage/</guid>
+      <description>&lt;h1 id=&#34;hello&#34;&gt;&#xA;  HELLO&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#hello&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;</description>
     </item>
     <item>
       <title>Hakkinda</title>
