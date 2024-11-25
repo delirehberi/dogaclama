@@ -40,6 +40,6 @@ Katılımcıların reflekslerini geliştirmek, dikkatlerini artırmak ve yaratı
 
 ### Çeşitler
 
-    - Yaratıcılık Versiyonu: Hareketi ve sesi gönderen kişinin tavrı (örneğin, heyecanlı, üzgün, sinirli) bir sonraki kişi tarafından da kopyalanabilir.
+- Yaratıcılık Versiyonu: Hareketi ve sesi gönderen kişinin tavrı (örneğin, heyecanlı, üzgün, sinirli) bir sonraki kişi tarafından da kopyalanabilir.
 
-    - Grup Versiyonu: Herkes aynı anda çemberin ortasındaki kişinin hareketini ve sesini kopyalar, sonra sıra bir başkasına geçer. Amaç, çemberin ritmik bir ahenk oluşturmasıdır.
+- Grup Versiyonu: Herkes aynı anda çemberin ortasındaki kişinin hareketini ve sesini kopyalar, sonra sıra bir başkasına geçer. Amaç, çemberin ritmik bir ahenk oluşturmasıdır.
