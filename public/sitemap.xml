@@ -2,13 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/docs/topluluklar/analog-kafalar/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/topluluklar/hayal-meal/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/topluluklar/oyun-hamuru-tiyatrosu/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/oyunlar/ritmit-yanki/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/topluluklar/surcu-lisan/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/oyunlar/tek-cumle-hikaye/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/oyunlar/tek-kelime/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/oyunlar/tek-kelime-hikaye/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/topluluklar/tiyatroefes/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/topluluklar/tiyatrohane/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/topluluklar/mahseri-cumbus/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/oyunlar/</loc>
+    <lastmod>2024-11-24T12:46:35-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/topluluklar/</loc>
   </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2024-11-25T07:55:39-05:00</lastmod>
