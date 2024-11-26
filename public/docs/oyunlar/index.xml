@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Doğaçlama Oyun Örnekleri on Doğaçlama Oyunlar Veritabanı</title>
+    <link>http://localhost:1313/docs/oyunlar/</link>
+    <description>Recent content in Doğaçlama Oyun Örnekleri on Doğaçlama Oyunlar Veritabanı</description>
+    <generator>Hugo</generator>
+    <language>tr-TR</language>
+    <lastBuildDate>Sun, 24 Nov 2024 12:46:35 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/docs/oyunlar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ritmit Yanki</title>
+      <link>http://localhost:1313/docs/oyunlar/ritmit-yanki/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/oyunlar/ritmit-yanki/</guid>
+      <description>&lt;h3 id=&#34;yönergeler&#34;&gt;&#xA;  Yönergeler&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#y%c3%b6nergeler&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;h4 id=&#34;başlangıç-hazırlığı&#34;&gt;&#xA;  Başlangıç Hazırlığı:&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#ba%c5%9flang%c4%b1%c3%a7-haz%c4%b1rl%c4%b1%c4%9f%c4%b1&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Ekip bir çember oluşturur.&lt;/li&gt;&#xA;&lt;li&gt;Herkes ayakta durur ve ellerini rahat bir şekilde serbest bırakır.&lt;/li&gt;&#xA;&lt;li&gt;Oyunu başlatacak kişi çemberin ortasına geçer.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;hareket-ve-ses-kombinasyonu&#34;&gt;&#xA;  Hareket ve Ses Kombinasyonu:&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#hareket-ve-ses-kombinasyonu&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Ortadaki kişi, seçtiği birine dönerek tüm vücuduyla bir hareket yapar (örneğin, zıplama, el çırpma, baş sallama gibi) ve bir ses çıkarır (örneğin, &amp;ldquo;bop&amp;rdquo;, &amp;ldquo;tic&amp;rdquo; veya &amp;ldquo;dum&amp;rdquo;).&lt;/li&gt;&#xA;&lt;li&gt;Seçilen kişi, hareketi kopyalarken sesin aynısını tekrar eder ve aynı anda başka bir kişiye doğru farklı bir hareket ve ses kombinasyonu gönderir.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;devamlılık&#34;&gt;&#xA;  Devamlılık:&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#devaml%c4%b1l%c4%b1k&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h4&gt;&#xA;&lt;p&gt;Bu süreç, zincirleme şekilde herkesin bir hareket ve ses üretmesiyle devam eder.&#xA;Oyuncular hareket ve sesi hem doğru hem de hızlı bir şekilde kopyalamak ve aktarmak zorundadır.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tek Cümle Hikaye</title>
+      <link>http://localhost:1313/docs/oyunlar/tek-cumle-hikaye/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/oyunlar/tek-cumle-hikaye/</guid>
+      <description>&lt;h3 id=&#34;yönergeler&#34;&gt;&#xA;  Yönergeler&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#y%c3%b6nergeler&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Bir oyuncu ilk cümleyi söyleyerek oyunu başlatır. Sonraki oyuncu, kapsama bağlı kalarak yeni bir cümle ekler. Oyun, oyuncuların sırayla bir cümle ekleyerek hikayeyi oluşturmasıyla devam eder. Oyun, hikayenin sonuna gelindiğinde son oyuncu hikayeyi bitirir.&lt;/p&gt;&#xA;&lt;h3 id=&#34;amaç&#34;&gt;&#xA;  Amaç&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#ama%c3%a7&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Yaratıcılığı arttırmak, hikaye anlatma becerilerini geliştirmek.&lt;/p&gt;&#xA;&lt;h3 id=&#34;ipuçları&#34;&gt;&#xA;  İpuçları&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#ipu%c3%a7lar%c4%b1&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Hikayeyi mümkün oldukça uzun tutmak ve sonuçlandırmamak oyunu daha eğlenceli kılar.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tek Kelime</title>
+      <link>http://localhost:1313/docs/oyunlar/tek-kelime/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/oyunlar/tek-kelime/</guid>
+      <description>&lt;h3 id=&#34;yönergeler&#34;&gt;&#xA;  Yönergeler&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#y%c3%b6nergeler&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Oyuncular çember oluştururlar ve bir oyuncu ilk kelimeyi söyler. Sağındaki oyuncu, bu kelimeden yola çıkarak, çağrışım sonucu aklına gelen ilk kelimeyi söyler. Üçüncü oyuncu sonraki kelimeyi söyler ve bu şekilde devam eder. Kelimelerin tekrarlanmaması gerekmektedir. Söylenmiş kelimeyi tekrar eden oyuncu elenir. Sırası gelen oyuncu 5 saniye içerisinde kelimesini söyleyemezse elenir. Oyun sonunda en son kalan oyuncu kazanır.&lt;/p&gt;&#xA;&lt;h3 id=&#34;amaç&#34;&gt;&#xA;  Amaç&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#ama%c3%a7&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Hızlı düşünme, kelime dağarcığını geliştirme, kelime çağrışımı yapma.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tek Kelime Hikaye</title>
+      <link>http://localhost:1313/docs/oyunlar/tek-kelime-hikaye/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/oyunlar/tek-kelime-hikaye/</guid>
+      <description>&lt;h3 id=&#34;yönergeler&#34;&gt;&#xA;  Yönergeler&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#y%c3%b6nergeler&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Tek Kelime oyununda olduğu gibi ilk oyuncu bir kelime ile oyunu başlatır. Sonraki oyuncular, bir öncekinin kelimesine ve genel kapsama bağlı kalarak, bir hikaye oluşturmak amacıyla bir kelime eklerler. Oyun, oyunculardan biri kelime ekleyemediğinde veya hikaye tamamlandığında sona erer. Oyunun amacı, hikayeyi mümkün olduğunca uzatmaktır.&lt;/p&gt;&#xA;&lt;h3 id=&#34;amaç&#34;&gt;&#xA;  Amaç&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#ama%c3%a7&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Oyuncuların kelime bilgisi ve hikaye oluşturma yeteneklerini geliştirmek.&#xA;Oyuncuların takip yeteneğini arttırmak.&#xA;Yaratıcılığı arttırmak.&lt;/p&gt;&#xA;&lt;h3 id=&#34;ipuçları&#34;&gt;&#xA;  İpuçları&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#ipu%c3%a7lar%c4%b1&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Oyuncuların hikayeyi oluştururken, hikayenin akışını ve mantığını korumaları önemlidir.&#xA;Her kelimeyi dikkatle dinlemek ve hikayeye uygun bir kelime eklemek önemlidir.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Zip Zap Zop</title>
+      <link>http://localhost:1313/docs/oyunlar/zip-zap-zop/</link>
+      <pubDate>Sun, 24 Nov 2024 12:46:35 -0500</pubDate>
+      <guid>http://localhost:1313/docs/oyunlar/zip-zap-zop/</guid>
+      <description>&lt;h3 id=&#34;yönergeler&#34;&gt;&#xA;  Yönergeler&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#y%c3%b6nergeler&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Ekipteki herkes bir çember oluşturur. Oyunun başlaması için bir kişi çemberin ortasına geçer ve bir kişiye bakar ve tüm vücudunu kullanarak, ellerini birleştirip karşısındaki kişiye doğru gönderirken &amp;ldquo;zip&amp;rdquo; der. Karşısındaki kişinin iki yanında bulunan kişi, ortalarındaki kişiye dönerek bir kesme hareketiyle &amp;ldquo;zip&amp;quot;i yakalayıp &amp;ldquo;zap&amp;rdquo; der. &amp;ldquo;Zap&amp;quot;i yakalayan kişi, hemen karşısındaki kişiye &amp;ldquo;zop&amp;rdquo; derken ellerini birleştirip gönderir. Oyun bu şekilde devam eder. Eğer bir kişi hata yaparsa, o kişi çemberin dışına çıkartılır.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
